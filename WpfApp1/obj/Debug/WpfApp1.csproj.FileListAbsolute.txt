@@ -1,0 +1,15 @@
+C:\Users\Sergey\OneDrive\ИСРП\Projects\01\WpfApp1\bin\Debug\WpfApp1.exe.config
+C:\Users\Sergey\OneDrive\ИСРП\Projects\01\WpfApp1\bin\Debug\WpfApp1.exe
+C:\Users\Sergey\OneDrive\ИСРП\Projects\01\WpfApp1\bin\Debug\WpfApp1.pdb
+C:\Users\Sergey\OneDrive\ИСРП\Projects\01\WpfApp1\obj\Debug\MainWindow.g.cs
+C:\Users\Sergey\OneDrive\ИСРП\Projects\01\WpfApp1\obj\Debug\App.g.cs
+C:\Users\Sergey\OneDrive\ИСРП\Projects\01\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.cache
+C:\Users\Sergey\OneDrive\ИСРП\Projects\01\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.lref
+C:\Users\Sergey\OneDrive\ИСРП\Projects\01\WpfApp1\obj\Debug\MainWindow.baml
+C:\Users\Sergey\OneDrive\ИСРП\Projects\01\WpfApp1\obj\Debug\WpfApp1.g.resources
+C:\Users\Sergey\OneDrive\ИСРП\Projects\01\WpfApp1\obj\Debug\WpfApp1.Properties.Resources.resources
+C:\Users\Sergey\OneDrive\ИСРП\Projects\01\WpfApp1\obj\Debug\WpfApp1.csproj.GenerateResource.cache
+C:\Users\Sergey\OneDrive\ИСРП\Projects\01\WpfApp1\obj\Debug\WpfApp1.csproj.CoreCompileInputs.cache
+C:\Users\Sergey\OneDrive\ИСРП\Projects\01\WpfApp1\obj\Debug\WpfApp1.exe
+C:\Users\Sergey\OneDrive\ИСРП\Projects\01\WpfApp1\obj\Debug\WpfApp1.pdb
+C:\Users\Sergey\OneDrive\ИСРП\Projects\01\WpfApp1\obj\Debug\WpfApp1.csproj.AssemblyReference.cache
